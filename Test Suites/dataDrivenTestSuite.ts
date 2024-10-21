@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>dataDrivenTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>7345843e-634f-4b83-8ed4-bf3c4c1fd91e</testSuiteGuid>
+   <testCaseLink>
+      <guid>fc482386-712e-47fd-a815-99593ace3374</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/dataDrivenTc</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4b85f9f3-2d8e-4219-b5a0-ba9d460bf789</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dataDrivenExcelOrangeHRM</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4b85f9f3-2d8e-4219-b5a0-ba9d460bf789</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userName</value>
+         <variableId>41df8154-74c6-46bc-a45d-81d9e04e15c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4b85f9f3-2d8e-4219-b5a0-ba9d460bf789</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>d12470af-12d1-4da0-9c5b-0af526db939a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

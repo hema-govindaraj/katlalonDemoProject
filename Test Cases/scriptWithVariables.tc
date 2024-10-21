@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>scriptWithVariables</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4020658-e10b-4704-bb0e-d33c71a7271c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1aa4e0cd-2857-42a6-9913-7f1ad2a64ee1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67166de0-44e9-4cf5-8ea4-c2ea6b8e0b5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>1aa4e0cd-2857-42a6-9913-7f1ad2a64ee1</id>
+      <masked>false</masked>
+      <name>passwordPrivateVariable</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>67166de0-44e9-4cf5-8ea4-c2ea6b8e0b5e</id>
+      <masked>false</masked>
+      <name>userNamePrivateVariable</name>
+   </variable>
+</TestCaseEntity>
